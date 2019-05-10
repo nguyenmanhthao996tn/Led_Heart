@@ -1,1 +1,0 @@
-Led Trái Tim với 8051 (AT89S52) điều khiển trái tim 28 led và dòng chữ "I LOVE YOU". Có sử dụng 74HC595 để mở rộng thêm chân của vi điều khiển.
