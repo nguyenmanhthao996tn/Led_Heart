@@ -1,2 +1,2 @@
-# -8051-Led_Heart_with_AT89S52
-Đồ án (dự phòng) môn Vi xử lý vi điều khiển
+# LedHeart
+An RGB Led Heart shape circuit with STM32F103C8T6 (STM32 Blue Pill) and WS2812B-Mini Leds
