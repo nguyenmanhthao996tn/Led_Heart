@@ -1,6 +1,3 @@
-
-PCBs/LedHeart\.pdsprj\.DESKTOP-PU29DH3\.thaonguyen\.workspace
-
-PCBs/Backup Of LedHeart\.pdsbak
-
-PCBs/Last Loaded LedHeart\.pdsbak
+*.workspace
+*.pdsbak
+*.pdsbak
