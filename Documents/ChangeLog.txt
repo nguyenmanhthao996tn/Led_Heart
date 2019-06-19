@@ -1,3 +1,5 @@
 ---------- Version 2.1 ----------
     - Remove the unintentionally vias
     - Correct usb package
+    - Add boot select 0-Ohm resistors description on bottom silk
+    - Change crytal to surface mount (5032)
