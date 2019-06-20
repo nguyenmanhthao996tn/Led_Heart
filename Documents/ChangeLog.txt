@@ -3,3 +3,4 @@
     - Correct usb package
     - Add boot select 0-Ohm resistors description on bottom silk
     - Change crytal to surface mount (5032)
+    - Change D+ pull-up resistor value from 10k Ohm to 1.5k Ohm
