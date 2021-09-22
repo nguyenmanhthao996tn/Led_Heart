@@ -1,0 +1,12 @@
+ESP32-WROVER-IB: https://www.thegioiic.com/products/esp32-wrover-ib-wifi-bluetooth-module
+WS2812B: https://www.thegioiic.com/products/led-rgb-5050-ws2812b-dan-smd-trong-suot
+ATMEGA328P: https://www.thegioiic.com/products/atmega328p-au
+74HC595D: https://www.thegioiic.com/products/74hc595d
+BSS138LT1G: https://www.thegioiic.com/products/bss138lt1g
+Crystal 3225 16MHz: https://www.thegioiic.com/products/thach-anh-16mhz-3225-4-chan-smd
+Nút Nhấn 4x4mm: https://www.thegioiic.com/products/nut-nhan-4x4mm-cao-3mm-4-chan-smd-chong-nuoc
+LED 0603: https://www.thegioiic.com/products/led-tim-0603-dan-smd-trong-suot
+SD: https://www.thegioiic.com/products/misd-pp-9p-v2-khay-the-nho-microsd-9-chan-push-push
+LDO 5V: https://www.thegioiic.com/products/lm1117imp-5-0-nopb-cn-ic-on-ap-5v-800ma
+LDO 3v3: https://www.thegioiic.com/products/rt9193-33gb-ic-on-ap-3-3v-300ma
+PH2.0 Female: https://www.thegioiic.com/products/dau-ph-2-0mm-2-chan-nam-ngang-dan-smd
