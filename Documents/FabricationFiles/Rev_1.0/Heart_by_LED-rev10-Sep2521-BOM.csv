@@ -1,0 +1,22 @@
+Comment,Description,Designator,Footprint,Quantity,Value
+Button,,"BTN1, BTN2, BTN3",TactileButton_4x4,3,
+Cap Semi,Capacitor (Semiconductor SIM Model),"C1, C2, C4, C5, C8, C9, C11, C15, C18",1608[0603],9,100nF
+Cap Semi,Capacitor (Semiconductor SIM Model),"C3, C6, C7, C10, C14, C16",1608[0603],6,1uF
+Cap Semi,Capacitor (Semiconductor SIM Model),"C12, C13, C17",1608[0603],3,22pF
+Diode Schottky,Diode Shotky SS54 5A 40V,"D1, D2",DO-214AC,2,SS54 SMA
+RGB LED,"RGB 620~630nm Red, 515~530nm Green, 465~475nm Blue SMD,5x5mm Light Emitting Diodes (LED) ROHS","D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26",WS2812B,24,WS2812B
+TestPin,Test conntact for pogo pins,"J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12",TestPin_1mm,12,
+PH2.0 Female,2 Header PH 0.079(2.00mm) Male Pin SMD,J13,PH2.0 FEMALE,1,
+LED,,"LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16",LED-0805-Red,16,LED 3 - 5 ly 2 Colour
+Res,Resistor,"R1, R2, R3, R6, R7, R10, R34, R36, R39",RES-SMD-0603,9,0R
+Res,Resistor,"R4, R5, R8, R9, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R37, R38",RES-SMD-0603,27,10k
+Res,Resistor,"R32, R33",RES-SMD-0603,2,1k
+Res,Resistor,R35,RES-SMD-0603,1,100k
+Switch,"Plugin,9.1x3.5mm Slide Switches ROHS",SW1,MSS-22D18,1,
+ESP32 Module,"Multiprotocol Modules SMD Module M213DH3264UH3Q0, ESP32-D0WD, 64Mbits PSRAM, 4 MB SPI flash, IPEX Antenna connector",U1,ESP32-WROVER-IB,1,ESP32-WROVER-IB
+Shift Register,74HC Shift Register SOIC-16_150mil Registers ROHS,"U2, U5",SO16,2,74HC595D
+BSS138LT1G,No Description Available,"U3, U4, U6, U7, U11",SOT23-3_ONS,5,
+ATMEGA328P-AU,No Description Available,U8,32A_ATM,1,
+lm1117mpx-5_0,No Description Available,U9,LM1117,1,Value
+LDO 3.3V,300mA Fixed 3.3V SOT-23-5 Linear Voltage Regulators (LDO) ROHS,U10,SOT-23-5,1,
+Crystal,16MHz ±25ppm SMD3225-4P Oscillators ROHS,X1,SMD-3225-4P,1,16MHz

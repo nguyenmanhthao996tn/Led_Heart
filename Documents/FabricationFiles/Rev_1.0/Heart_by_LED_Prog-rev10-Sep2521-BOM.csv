@@ -1,0 +1,14 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Value
+
+"Cap Semi","Capacitor (Semiconductor SIM Model)","C1, C2, C3","1608[0603]","Cap Semi","3","100nF"
+"USB","MicroUSB 5pin TypeB SMD","J1","USB-MICRO-B-1","USB-Micro-B_1","1",""
+"Test Pin","","J2, J3, J4, J5, J7, J8, J9, J10, J11, J12, J13, J14","P50-J1","P50-J1","12",""
+"Header","Header 1x2Pin 2.54mm","J6","Header 1x2 Pin 2.54mm","Header 1x2Pin 2.54mm","1",""
+"Header","Header 1x4Pin 2.54mm","J15","HEADER 1X4PIN 2.54mm","Header 1x4Pin 2.54mm","1",""
+"LED","","LED1, LED2, LED3","LED-0805-Red","LED SMD","3","LED 3 - 5 ly 2 Colour"
+"Res","Resistor","R1, R2","RES-SMD-0603","Res-SMD","2","12k"
+"Res","Resistor","R3, R4, R5","RES-SMD-0603","Res-SMD","3","10k"
+"Res","Resistor","R6","RES-SMD-0603","Res-SMD","1","470R"
+"SW DIP-7","DIP Switch, 7 Position, SPST","S1","DIP-14","SW DIP-7","1",""
+"BSS138LT1G","No Description Available","U1, U3","SOT23-3_ONS","BSS138LT1G","2",""
+"Serial IC","Transceiver USB 2.0 2Mbps SOP-16_150mil USB ICs RoHS","U2","CH340C","CH340C","1",""
