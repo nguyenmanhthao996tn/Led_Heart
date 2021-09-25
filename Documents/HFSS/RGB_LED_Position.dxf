@@ -1,0 +1,4018 @@
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+1
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+2
+ 10
+47.5
+ 20
+-2.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+3
+ 10
+42.5
+ 20
+-2.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+4
+ 10
+42.5
+ 20
+2.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+5
+ 10
+47.5
+ 20
+2.5
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+6
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+7
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+8
+ 10
+46.5285
+ 20
+9.87909
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+9
+ 10
+41.6989
+ 20
+8.58499
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A
+ 10
+40.4048
+ 20
+13.4146
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B
+ 10
+45.2344
+ 20
+14.7087
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+C
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+D
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E
+ 10
+45.2344
+ 20
+-14.7087
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F
+ 10
+40.4048
+ 20
+-13.4146
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+10
+ 10
+41.6989
+ 20
+-8.58499
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+11
+ 10
+46.5285
+ 20
+-9.87909
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+12
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+13
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+14
+ 10
+42.3862
+ 20
+21.5849
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+15
+ 10
+38.0561
+ 20
+19.0849
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+16
+ 10
+35.5561
+ 20
+23.4151
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+17
+ 10
+39.8862
+ 20
+25.9151
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+18
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+19
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+1A
+ 10
+39.8862
+ 20
+-25.9151
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+1B
+ 10
+35.5561
+ 20
+-23.4151
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+1C
+ 10
+38.0561
+ 20
+-19.0849
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+1D
+ 10
+42.3862
+ 20
+-21.5849
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+1E
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+1F
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+20
+ 10
+35.3553
+ 20
+31.8198
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+21
+ 10
+31.8198
+ 20
+28.2843
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+22
+ 10
+28.2843
+ 20
+31.8198
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+23
+ 10
+31.8198
+ 20
+35.3553
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+24
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+25
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+26
+ 10
+31.8198
+ 20
+-35.3553
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+27
+ 10
+28.2843
+ 20
+-31.8198
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+28
+ 10
+31.8198
+ 20
+-28.2843
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+29
+ 10
+35.3553
+ 20
+-31.8198
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+2A
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+2B
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+2C
+ 10
+25.9151
+ 20
+39.8862
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+2D
+ 10
+23.4151
+ 20
+35.5561
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+2E
+ 10
+19.0849
+ 20
+38.0561
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+2F
+ 10
+21.5849
+ 20
+42.3862
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+30
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+31
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+32
+ 10
+21.5849
+ 20
+-42.3862
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+33
+ 10
+19.0849
+ 20
+-38.0561
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+34
+ 10
+23.4151
+ 20
+-35.5561
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+35
+ 10
+25.9151
+ 20
+-39.8862
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+36
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+37
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+38
+ 10
+14.7087
+ 20
+45.2344
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+39
+ 10
+13.4146
+ 20
+40.4048
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+3A
+ 10
+8.58499
+ 20
+41.6989
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+3B
+ 10
+9.87909
+ 20
+46.5285
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+3C
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+3D
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+3E
+ 10
+9.87909
+ 20
+-46.5285
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+3F
+ 10
+8.58499
+ 20
+-41.6989
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+40
+ 10
+13.4146
+ 20
+-40.4048
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+41
+ 10
+14.7087
+ 20
+-45.2344
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+42
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+43
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+44
+ 10
+2.5
+ 20
+47.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+45
+ 10
+2.5
+ 20
+42.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+46
+ 10
+-2.5
+ 20
+42.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+47
+ 10
+-2.5
+ 20
+47.5
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+48
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+49
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+4A
+ 10
+-2.5
+ 20
+-47.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+4B
+ 10
+-2.5
+ 20
+-42.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+4C
+ 10
+2.5
+ 20
+-42.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+4D
+ 10
+2.5
+ 20
+-47.5
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+4E
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+4F
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+50
+ 10
+-9.87909
+ 20
+46.5285
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+51
+ 10
+-8.58499
+ 20
+41.6989
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+52
+ 10
+-13.4146
+ 20
+40.4048
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+53
+ 10
+-14.7087
+ 20
+45.2344
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+54
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+55
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+56
+ 10
+-14.7087
+ 20
+-45.2344
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+57
+ 10
+-13.4146
+ 20
+-40.4048
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+58
+ 10
+-8.58499
+ 20
+-41.6989
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+59
+ 10
+-9.87909
+ 20
+-46.5285
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+5A
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+5B
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+5C
+ 10
+-21.5849
+ 20
+42.3862
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+5D
+ 10
+-19.0849
+ 20
+38.0561
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+5E
+ 10
+-23.4151
+ 20
+35.5561
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+5F
+ 10
+-25.9151
+ 20
+39.8862
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+60
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+61
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+62
+ 10
+-25.9151
+ 20
+-39.8862
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+63
+ 10
+-23.4151
+ 20
+-35.5561
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+64
+ 10
+-19.0849
+ 20
+-38.0561
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+65
+ 10
+-21.5849
+ 20
+-42.3862
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+66
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+67
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+68
+ 10
+-31.8198
+ 20
+35.3553
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+69
+ 10
+-28.2843
+ 20
+31.8198
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+6A
+ 10
+-31.8198
+ 20
+28.2843
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+6B
+ 10
+-35.3553
+ 20
+31.8198
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+6C
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+6D
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+6E
+ 10
+-35.3553
+ 20
+-31.8198
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+6F
+ 10
+-31.8198
+ 20
+-28.2843
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+70
+ 10
+-28.2843
+ 20
+-31.8198
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+71
+ 10
+-31.8198
+ 20
+-35.3553
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+72
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+73
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+74
+ 10
+-39.8862
+ 20
+25.9151
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+75
+ 10
+-35.5561
+ 20
+23.4151
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+76
+ 10
+-38.0561
+ 20
+19.0849
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+77
+ 10
+-42.3862
+ 20
+21.5849
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+78
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+79
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+7A
+ 10
+-42.3862
+ 20
+-21.5849
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+7B
+ 10
+-38.0561
+ 20
+-19.0849
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+7C
+ 10
+-35.5561
+ 20
+-23.4151
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+7D
+ 10
+-39.8862
+ 20
+-25.9151
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+7E
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+7F
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+80
+ 10
+-45.2344
+ 20
+14.7087
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+81
+ 10
+-40.4048
+ 20
+13.4146
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+82
+ 10
+-41.6989
+ 20
+8.58499
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+83
+ 10
+-46.5285
+ 20
+9.87909
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+84
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+85
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+86
+ 10
+-46.5285
+ 20
+-9.87909
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+87
+ 10
+-41.6989
+ 20
+-8.58499
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+88
+ 10
+-40.4048
+ 20
+-13.4146
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+89
+ 10
+-45.2344
+ 20
+-14.7087
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+8A
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+8B
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+8C
+ 10
+-47.5
+ 20
+2.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+8D
+ 10
+-42.5
+ 20
+2.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+8E
+ 10
+-42.5
+ 20
+-2.5
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+8F
+ 10
+-47.5
+ 20
+-2.5
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+90
+  0
+POLYLINE
+  8
+RGB_LED_Position
+  5
+91
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+92
+ 10
+48.9845
+ 20
+1.23137
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+93
+ 10
+49.0
+ 20
+0.0
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+94
+ 10
+48.9845
+ 20
+-1.23137
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+95
+ 10
+48.9381
+ 20
+-2.46197
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+96
+ 10
+48.8608
+ 20
+-3.69101
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+97
+ 10
+48.7526
+ 20
+-4.91772
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+98
+ 10
+48.6136
+ 20
+-6.14133
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+99
+ 10
+48.4439
+ 20
+-7.36105
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+9A
+ 10
+48.2437
+ 20
+-8.57613
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+9B
+ 10
+48.0129
+ 20
+-9.78579
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+9C
+ 10
+47.7518
+ 20
+-10.9893
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+9D
+ 10
+47.4606
+ 20
+-12.1858
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+9E
+ 10
+47.1394
+ 20
+-13.3746
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+9F
+ 10
+46.7884
+ 20
+-14.555
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A0
+ 10
+46.4078
+ 20
+-15.7262
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A1
+ 10
+45.998
+ 20
+-16.8875
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A2
+ 10
+45.559
+ 20
+-18.0381
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A3
+ 10
+45.0914
+ 20
+-19.1773
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A4
+ 10
+44.5952
+ 20
+-20.3044
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A5
+ 10
+44.0709
+ 20
+-21.4187
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A6
+ 10
+43.5187
+ 20
+-22.5194
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A7
+ 10
+42.939
+ 20
+-23.6059
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A8
+ 10
+42.3322
+ 20
+-24.6775
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+A9
+ 10
+41.6987
+ 20
+-25.7336
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+AA
+ 10
+41.0389
+ 20
+-26.7733
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+AB
+ 10
+40.3531
+ 20
+-27.7962
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+AC
+ 10
+39.6418
+ 20
+-28.8015
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+AD
+ 10
+38.9055
+ 20
+-29.7886
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+AE
+ 10
+38.1447
+ 20
+-30.7569
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+AF
+ 10
+37.3597
+ 20
+-31.7057
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B0
+ 10
+36.5511
+ 20
+-32.6346
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B1
+ 10
+35.7195
+ 20
+-33.5428
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B2
+ 10
+34.8652
+ 20
+-34.4298
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B3
+ 10
+33.989
+ 20
+-35.2951
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B4
+ 10
+33.0913
+ 20
+-36.1381
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B5
+ 10
+32.1727
+ 20
+-36.9583
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B6
+ 10
+31.2338
+ 20
+-37.7551
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B7
+ 10
+30.2751
+ 20
+-38.5281
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B8
+ 10
+29.2973
+ 20
+-39.2768
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+B9
+ 10
+28.3011
+ 20
+-40.0006
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+BA
+ 10
+27.2869
+ 20
+-40.6992
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+BB
+ 10
+26.2555
+ 20
+-41.3721
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+BC
+ 10
+25.2075
+ 20
+-42.0188
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+BD
+ 10
+24.1436
+ 20
+-42.639
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+BE
+ 10
+23.0645
+ 20
+-43.2323
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+BF
+ 10
+21.9708
+ 20
+-43.7982
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C0
+ 10
+20.8632
+ 20
+-44.3365
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C1
+ 10
+19.7424
+ 20
+-44.8468
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C2
+ 10
+18.6092
+ 20
+-45.3288
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C3
+ 10
+17.4642
+ 20
+-45.7821
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C4
+ 10
+16.3082
+ 20
+-46.2065
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C5
+ 10
+15.1418
+ 20
+-46.6018
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C6
+ 10
+13.9659
+ 20
+-46.9676
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C7
+ 10
+12.7812
+ 20
+-47.3037
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C8
+ 10
+11.5885
+ 20
+-47.61
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+C9
+ 10
+10.3883
+ 20
+-47.8861
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+CA
+ 10
+9.18168
+ 20
+-48.1321
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+CB
+ 10
+7.96922
+ 20
+-48.3476
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+CC
+ 10
+6.75172
+ 20
+-48.5326
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+CD
+ 10
+5.52996
+ 20
+-48.687
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+CE
+ 10
+4.30471
+ 20
+-48.8105
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+CF
+ 10
+3.07674
+ 20
+-48.9033
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D0
+ 10
+1.84682
+ 20
+-48.9652
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D1
+ 10
+0.615736
+ 20
+-48.9961
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D2
+ 10
+-0.615736
+ 20
+-48.9961
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D3
+ 10
+-1.84682
+ 20
+-48.9652
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D4
+ 10
+-3.07674
+ 20
+-48.9033
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D5
+ 10
+-4.30471
+ 20
+-48.8105
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D6
+ 10
+-5.52996
+ 20
+-48.687
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D7
+ 10
+-6.75172
+ 20
+-48.5326
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D8
+ 10
+-7.96922
+ 20
+-48.3476
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+D9
+ 10
+-9.18168
+ 20
+-48.1321
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+DA
+ 10
+-10.3883
+ 20
+-47.8861
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+DB
+ 10
+-11.5885
+ 20
+-47.61
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+DC
+ 10
+-12.7812
+ 20
+-47.3037
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+DD
+ 10
+-13.9659
+ 20
+-46.9676
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+DE
+ 10
+-15.1418
+ 20
+-46.6018
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+DF
+ 10
+-16.3082
+ 20
+-46.2065
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E0
+ 10
+-17.4642
+ 20
+-45.7821
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E1
+ 10
+-18.6092
+ 20
+-45.3288
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E2
+ 10
+-19.7424
+ 20
+-44.8468
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E3
+ 10
+-20.8632
+ 20
+-44.3365
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E4
+ 10
+-21.9708
+ 20
+-43.7982
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E5
+ 10
+-23.0645
+ 20
+-43.2323
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E6
+ 10
+-24.1436
+ 20
+-42.639
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E7
+ 10
+-25.2075
+ 20
+-42.0188
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E8
+ 10
+-26.2555
+ 20
+-41.3721
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+E9
+ 10
+-27.2869
+ 20
+-40.6992
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+EA
+ 10
+-28.3011
+ 20
+-40.0006
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+EB
+ 10
+-29.2973
+ 20
+-39.2768
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+EC
+ 10
+-30.2751
+ 20
+-38.5281
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+ED
+ 10
+-31.2338
+ 20
+-37.7551
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+EE
+ 10
+-32.1727
+ 20
+-36.9583
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+EF
+ 10
+-33.0913
+ 20
+-36.1381
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F0
+ 10
+-33.989
+ 20
+-35.2951
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F1
+ 10
+-34.8652
+ 20
+-34.4298
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F2
+ 10
+-35.7195
+ 20
+-33.5428
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F3
+ 10
+-36.5511
+ 20
+-32.6346
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F4
+ 10
+-37.3597
+ 20
+-31.7057
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F5
+ 10
+-38.1447
+ 20
+-30.7569
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F6
+ 10
+-38.9055
+ 20
+-29.7886
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F7
+ 10
+-39.6418
+ 20
+-28.8015
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F8
+ 10
+-40.3531
+ 20
+-27.7962
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+F9
+ 10
+-41.0389
+ 20
+-26.7733
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+FA
+ 10
+-41.6987
+ 20
+-25.7336
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+FB
+ 10
+-42.3322
+ 20
+-24.6775
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+FC
+ 10
+-42.939
+ 20
+-23.6059
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+FD
+ 10
+-43.5187
+ 20
+-22.5194
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+FE
+ 10
+-44.0709
+ 20
+-21.4187
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+FF
+ 10
+-44.5952
+ 20
+-20.3044
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+100
+ 10
+-45.0914
+ 20
+-19.1773
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+101
+ 10
+-45.559
+ 20
+-18.0381
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+102
+ 10
+-45.998
+ 20
+-16.8875
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+103
+ 10
+-46.4078
+ 20
+-15.7262
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+104
+ 10
+-46.7884
+ 20
+-14.555
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+105
+ 10
+-47.1394
+ 20
+-13.3746
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+106
+ 10
+-47.4606
+ 20
+-12.1858
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+107
+ 10
+-47.7518
+ 20
+-10.9893
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+108
+ 10
+-48.0129
+ 20
+-9.78579
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+109
+ 10
+-48.2437
+ 20
+-8.57613
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+10A
+ 10
+-48.4439
+ 20
+-7.36105
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+10B
+ 10
+-48.6136
+ 20
+-6.14133
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+10C
+ 10
+-48.7526
+ 20
+-4.91772
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+10D
+ 10
+-48.8608
+ 20
+-3.69101
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+10E
+ 10
+-48.9381
+ 20
+-2.46197
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+10F
+ 10
+-48.9845
+ 20
+-1.23137
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+110
+ 10
+-49.0
+ 20
+5.9952e-015
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+111
+ 10
+-48.9845
+ 20
+1.23137
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+112
+ 10
+-48.9381
+ 20
+2.46197
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+113
+ 10
+-48.8608
+ 20
+3.69101
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+114
+ 10
+-48.7526
+ 20
+4.91772
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+115
+ 10
+-48.6136
+ 20
+6.14133
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+116
+ 10
+-48.4439
+ 20
+7.36105
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+117
+ 10
+-48.2437
+ 20
+8.57613
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+118
+ 10
+-48.0129
+ 20
+9.78579
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+119
+ 10
+-47.7518
+ 20
+10.9893
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+11A
+ 10
+-47.4606
+ 20
+12.1858
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+11B
+ 10
+-47.1394
+ 20
+13.3746
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+11C
+ 10
+-46.7884
+ 20
+14.555
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+11D
+ 10
+-46.4078
+ 20
+15.7262
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+11E
+ 10
+-45.998
+ 20
+16.8875
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+11F
+ 10
+-45.559
+ 20
+18.0381
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+120
+ 10
+-45.0914
+ 20
+19.1773
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+121
+ 10
+-44.5952
+ 20
+20.3044
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+122
+ 10
+-44.0709
+ 20
+21.4187
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+123
+ 10
+-43.5187
+ 20
+22.5194
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+124
+ 10
+-42.939
+ 20
+23.6059
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+125
+ 10
+-42.3322
+ 20
+24.6775
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+126
+ 10
+-41.6987
+ 20
+25.7336
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+127
+ 10
+-41.0389
+ 20
+26.7733
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+128
+ 10
+-40.3531
+ 20
+27.7962
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+129
+ 10
+-39.6418
+ 20
+28.8015
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+12A
+ 10
+-38.9055
+ 20
+29.7886
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+12B
+ 10
+-38.1447
+ 20
+30.7569
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+12C
+ 10
+-37.3597
+ 20
+31.7057
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+12D
+ 10
+-36.5511
+ 20
+32.6346
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+12E
+ 10
+-35.7195
+ 20
+33.5428
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+12F
+ 10
+-34.8652
+ 20
+34.4298
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+130
+ 10
+-33.989
+ 20
+35.2951
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+131
+ 10
+-33.0913
+ 20
+36.1381
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+132
+ 10
+-32.1727
+ 20
+36.9583
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+133
+ 10
+-31.2338
+ 20
+37.7551
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+134
+ 10
+-30.2751
+ 20
+38.5281
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+135
+ 10
+-29.2973
+ 20
+39.2768
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+136
+ 10
+-28.3011
+ 20
+40.0006
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+137
+ 10
+-27.2869
+ 20
+40.6992
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+138
+ 10
+-26.2555
+ 20
+41.3721
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+139
+ 10
+-25.2075
+ 20
+42.0188
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+13A
+ 10
+-24.1436
+ 20
+42.639
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+13B
+ 10
+-23.0645
+ 20
+43.2323
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+13C
+ 10
+-21.9708
+ 20
+43.7982
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+13D
+ 10
+-20.8632
+ 20
+44.3365
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+13E
+ 10
+-19.7424
+ 20
+44.8468
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+13F
+ 10
+-18.6092
+ 20
+45.3288
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+140
+ 10
+-17.4642
+ 20
+45.7821
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+141
+ 10
+-16.3082
+ 20
+46.2065
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+142
+ 10
+-15.1418
+ 20
+46.6018
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+143
+ 10
+-13.9659
+ 20
+46.9676
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+144
+ 10
+-12.7812
+ 20
+47.3037
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+145
+ 10
+-11.5885
+ 20
+47.61
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+146
+ 10
+-10.3883
+ 20
+47.8861
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+147
+ 10
+-9.18168
+ 20
+48.1321
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+148
+ 10
+-7.96922
+ 20
+48.3476
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+149
+ 10
+-6.75172
+ 20
+48.5326
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+14A
+ 10
+-5.52996
+ 20
+48.687
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+14B
+ 10
+-4.30471
+ 20
+48.8105
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+14C
+ 10
+-3.07674
+ 20
+48.9033
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+14D
+ 10
+-1.84682
+ 20
+48.9652
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+14E
+ 10
+-0.615736
+ 20
+48.9961
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+14F
+ 10
+0.615736
+ 20
+48.9961
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+150
+ 10
+1.84682
+ 20
+48.9652
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+151
+ 10
+3.07674
+ 20
+48.9033
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+152
+ 10
+4.30471
+ 20
+48.8105
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+153
+ 10
+5.52996
+ 20
+48.687
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+154
+ 10
+6.75172
+ 20
+48.5326
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+155
+ 10
+7.96922
+ 20
+48.3476
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+156
+ 10
+9.18168
+ 20
+48.1321
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+157
+ 10
+10.3883
+ 20
+47.8861
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+158
+ 10
+11.5885
+ 20
+47.61
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+159
+ 10
+12.7812
+ 20
+47.3037
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+15A
+ 10
+13.9659
+ 20
+46.9676
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+15B
+ 10
+15.1418
+ 20
+46.6018
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+15C
+ 10
+16.3082
+ 20
+46.2065
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+15D
+ 10
+17.4642
+ 20
+45.7821
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+15E
+ 10
+18.6092
+ 20
+45.3288
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+15F
+ 10
+19.7424
+ 20
+44.8468
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+160
+ 10
+20.8632
+ 20
+44.3365
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+161
+ 10
+21.9708
+ 20
+43.7982
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+162
+ 10
+23.0645
+ 20
+43.2323
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+163
+ 10
+24.1436
+ 20
+42.639
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+164
+ 10
+25.2075
+ 20
+42.0188
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+165
+ 10
+26.2555
+ 20
+41.3721
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+166
+ 10
+27.2869
+ 20
+40.6992
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+167
+ 10
+28.3011
+ 20
+40.0006
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+168
+ 10
+29.2973
+ 20
+39.2768
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+169
+ 10
+30.2751
+ 20
+38.5281
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+16A
+ 10
+31.2338
+ 20
+37.7551
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+16B
+ 10
+32.1727
+ 20
+36.9583
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+16C
+ 10
+33.0913
+ 20
+36.1381
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+16D
+ 10
+33.989
+ 20
+35.2951
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+16E
+ 10
+34.8652
+ 20
+34.4298
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+16F
+ 10
+35.7195
+ 20
+33.5428
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+170
+ 10
+36.5511
+ 20
+32.6346
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+171
+ 10
+37.3597
+ 20
+31.7057
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+172
+ 10
+38.1447
+ 20
+30.7569
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+173
+ 10
+38.9055
+ 20
+29.7886
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+174
+ 10
+39.6418
+ 20
+28.8015
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+175
+ 10
+40.3531
+ 20
+27.7962
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+176
+ 10
+41.0389
+ 20
+26.7733
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+177
+ 10
+41.6987
+ 20
+25.7336
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+178
+ 10
+42.3322
+ 20
+24.6775
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+179
+ 10
+42.939
+ 20
+23.6059
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+17A
+ 10
+43.5187
+ 20
+22.5194
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+17B
+ 10
+44.0709
+ 20
+21.4187
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+17C
+ 10
+44.5952
+ 20
+20.3044
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+17D
+ 10
+45.0914
+ 20
+19.1773
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+17E
+ 10
+45.559
+ 20
+18.0381
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+17F
+ 10
+45.998
+ 20
+16.8875
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+180
+ 10
+46.4078
+ 20
+15.7262
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+181
+ 10
+46.7884
+ 20
+14.555
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+182
+ 10
+47.1394
+ 20
+13.3746
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+183
+ 10
+47.4606
+ 20
+12.1858
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+184
+ 10
+47.7518
+ 20
+10.9893
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+185
+ 10
+48.0129
+ 20
+9.78579
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+186
+ 10
+48.2437
+ 20
+8.57613
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+187
+ 10
+48.4439
+ 20
+7.36105
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+188
+ 10
+48.6136
+ 20
+6.14133
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+189
+ 10
+48.7526
+ 20
+4.91772
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+18A
+ 10
+48.8608
+ 20
+3.69101
+  0
+VERTEX
+  8
+RGB_LED_Position
+  5
+18B
+ 10
+48.9381
+ 20
+2.46197
+  0
+SEQEND
+  8
+RGB_LED_Position
+  5
+18C
+  0
+ENDSEC
+  0
+EOF

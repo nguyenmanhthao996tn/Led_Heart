@@ -10,3 +10,5 @@ SD: https://www.thegioiic.com/products/misd-pp-9p-v2-khay-the-nho-microsd-9-chan
 LDO 5V: https://www.thegioiic.com/products/lm1117imp-5-0-nopb-cn-ic-on-ap-5v-800ma
 LDO 3v3: https://www.thegioiic.com/products/rt9193-33gb-ic-on-ap-3-3v-300ma
 PH2.0 Female: https://www.thegioiic.com/products/dau-ph-2-0mm-2-chan-nam-ngang-dan-smd
+Switch: https://www.thegioiic.com/products/mss-22d18-cong-tac-truot-6-chan-xuyen-lo-on-on-2p2t-0-5a
+DIP Switch: https://www.thegioiic.com/products/cong-tac-7-bit-dip-switch-xuyen-lo-2-54mm-mau-do
